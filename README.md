@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub.
+# this is my first project in Github
+# these files which in order to deeply understand the knowleges of how to upload the local_file to remote repository.
